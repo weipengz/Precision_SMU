@@ -1,0 +1,9 @@
+J3 Pinout
+1  - BS    | 2  - +12V
+3  - A0    | 4  - +12V
+5  - A1    | 6  - +5V
+7  - CLK   | 8  - \LDAC
+9  - MOSI  | 10 - PGND
+11 - MISO  | 12 - PGND
+13 - FAULT | 14 - GND
+15 - PGOOD | 16 - GND

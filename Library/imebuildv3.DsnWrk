@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=imebuildv2_controller.PrjPcb
+[Project2]
+ProjectPath=imebuildv2_backplane.PrjPcb
+[Project3]
+ProjectPath=imebuildv2_daughterboard.PrjPcb
+[Project4]
+ProjectPath=imebuildv2\imebuildv2.PrjMbd
+[Project5]
+ProjectPath=..\pcb_library\palliser\InterposerAv2\Breakout\Breakout.PrjPcb
+[Project6]
+ProjectPath=..\pcb_library\palliser\InterposerAv2\Interposer.PrjMbd
+[Project7]
+ProjectPath=..\pcb_library\palliser\InterposerAv2\InterposerA\InterposerA.PrjPcb

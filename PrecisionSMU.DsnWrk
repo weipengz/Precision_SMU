@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=smu_unit\smu_unit.PrjPcb
+[Project2]
+ProjectPath=..\Philip\Nikanssin_Interposer\Interposer_BSS\Interposer_BSS.PrjPcb
+[Project3]
+ProjectPath=motherboard_2ch_arduino\motherboard_2ch_arduino.PrjPcb

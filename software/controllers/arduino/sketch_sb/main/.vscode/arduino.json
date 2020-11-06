@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:yun",
+    "programmer": "AVR ISP",
+    "sketch": "main.ino",
+    "port": "COM11"
+}
